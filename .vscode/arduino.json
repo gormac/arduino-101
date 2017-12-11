@@ -1,0 +1,7 @@
+{
+    "sketch": "dht22_wifi_mqtt\\dht22_wifi_mqtt.ino",
+    "output": "../build",
+    "board": "esp8266:esp8266:nodemcuv2",
+    "configuration": "CpuFrequency=80,UploadSpeed=115200,FlashSize=4M3M",
+    "port": "COM7"
+}
